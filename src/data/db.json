@@ -1,0 +1,7 @@
+{
+    "todos": [
+        { "id":1, "text": "eat", "isFinished": true },
+        { "id":2, "text": "drink", "isFinished": false },
+        { "id":3, "text": "sleep", "isFinished": true }
+    ]
+}
